@@ -1,0 +1,28 @@
+{
+  "id": "0",
+  "title": "This is A Test",
+  "date": "12-12-2012",
+  "i": "1",
+  "n": "2",
+  "clues": [
+    {
+      "hint": "internet", 
+      "text": "This is a test",
+      "reponse": "test",
+      "location": {
+        "country": "USA",
+        "state": "HI",
+        "city": "Honolulu",
+      }
+    },
+    {
+      "hint": "walk", 
+      "text": "is it really a test",
+      "reponse": "yes",
+      "location": {
+        "state": "NY",
+        "city": "Brooklyn",
+      }
+    }
+  ]
+}
