@@ -10,13 +10,13 @@
     {
       "hint": "internet", 
       "text": "This is a test",
-      "response": ["yes", "maybe"],
+      "responses": ["yes", "maybe"],
       "inputType": "text",
     },
     {
       "hint": "walk", 
       "text": "The First Apple In the fertile Kanan valley, nestled between the high peaks of the Eastern Mountains and the great Glass Sea, grew a peculiar tree. It was not the tallest, nor the oldest, but its branches shimmered with the promise of autumn even in high summer. The people of Kanan were cautious folk. They ate roots, sturdy greens, and grains, but the gleaming, round fruit that hung from this singular tree remained untouched. They called it the Sun Drop, and they feared its perfection. Elias, the village elder, was a practical man who had seen many seasons. He watched the Sun Drops ripen from sharp green to a blushing, deep crimson. The scent drifting from the tree was not the dusty smell of the grain stores or the damp earth of the yam fields. It was a bright, clean fragrance that made the mouth water and the mind wander. He saw the birds alight on the branches, peck at the skin, and fly away energized. He saw deer nudge the fallen fruit and thrive. The fear, he decided, was simply ignorance. One evening, as the sun dipped behind the peaks, painting the sky the same rich red as the fruit, Elias walked to the tree. The village watched from their doorways. He reached up, the skin of the apple cool and firm under his weathered fingers. He twisted it gently, and it came away with a soft snap. It felt heavy with promise. He raised the fruit, a sphere of polished light in his hand, and brought it to his lips. The first bite was an explosion of sensations Elias had no words for: crisp, sweet, tart, juicy. It was not just sustenance; it was an experience. Juice ran down his chin. He took another bite, then another, devouring the entire fruit in quick, eager mouthfuls. A silence hung over Kanan until Elias wiped his mouth with the back of his hand and smiled, a wide, genuine smile that eased the worry from the faces of his neighbors. It is good, he called out, his voice strong and clear. It is very, very good. The next day, the tree was bare. The people of Kanan learned to grow the Sun Drops, renamed simply apples. They became core to their harvest, a symbol of autumn and the simple joy of discovery. The story of Elias, the first to bite into the worlds most common fruit, became a legend—a reminder that sometimes, the greatest blessings are simply waiting for someone brave enough to reach out and taste them.",
-      "response": ["yes", "all", "unknown"],
+      "responses": ["yes", "all", "unknown"],
       "inputType": "scan"
     }
   ]
