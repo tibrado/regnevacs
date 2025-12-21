@@ -11,7 +11,7 @@
       "hint": "internet", 
       "text": "This is a test",
       "responses": ["yes", "maybe"],
-      "inputType": "text",
+      "inputType": "text"
     },
     {
       "hint": "walk", 
