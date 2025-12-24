@@ -1,27 +1,60 @@
 {
   "title": "A Christmas Hunt",
   "date": "12-25-2025",
+  "location": {
+    "country": "USA",
+    "state": "AZ",
+    "city": "Phoenix"
+  },
   "clues": [
     {
-      "hintIcon": "here",
+      "hintIcon": "think",
       "hint": "the code is yes",
-      "text": "Welcome to the Hunt, *The Scavenger Hunt*. Since this is your first trial, we will keep it simple. *All the clue are in the house*. Let's jump right in. `Are you ready?`",
+      "text": "Welcome to the Hunt, **The Scavenger Hunt**. Since this is your first trial, we will keep it simple. *All the clues are in this house*, so let's jump right in. Are you ready?",
       "responses": ["yes", "maybe", "no"],
       "inputType": "text"
     },
     {
-      "hintIcon": "here",
+      "hintIcon": "think",
       "hint": "you get no hint", 
-      "text": "The name on the oddest Christmas <span style="color:blue">ornament</span>",
+      "text": "The name on the oddest Christmas ornament.",
       "responses": ["madison"],
       "inputType": "text"
     },
     {
-      "hintIcon": "here",
-      "hint": "you get no hint", 
-      "text": "The name on the oddest Christmas <span style="color:blue">ornament</span>",
-      "responses": ["madison"],
-      "inputType": "text"
+      "hintIcon": "think",
+      "hint": "it's not a bookshelf", 
+      "text": "Well well, you made it past your first challenge. Let's see if you can figure this one out. It's not an elf but it's on a shelf.",
+      "responses": ["gnome"],
+      "inputType": "scan"
+    },
+    {
+      "hintIcon": "think",
+      "hint": "it has something to do with a cube, or does it?", 
+      "text": "Do you know of a cleaner that can do a low, romantic ballroom dance?",
+      "responses": ["roomba"],
+      "inputType": "scan"
+    },
+    {
+      "hintIcon": "think",
+      "hint": "the thing that tells you the date", 
+      "text": "You're right. This is to easy, let's up the difficulty. The date is May 25th.",
+      "responses": ["calendar"],
+      "inputType": "scan"
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "pick one", 
+      "text": "Blitzen, Donner or Prancer.",
+      "responses": ["deer"],
+      "inputType": "scan"
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "it's an actual tree", 
+      "text": "How would one find an edible color?",
+      "responses": ["orange tree"],
+      "inputType": "scan"
     }
   ]
 }
