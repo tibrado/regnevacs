@@ -10,7 +10,7 @@
     {
       "hintIcon": "here",
       "hint": "the code is yes",
-      "text": "```Welcome to the Hunt```, *The Scavenger Hunt*. Since this is your first trial, we will keep it simple. *All the clue are in the house*. Let's jump right in. Are you ready?",
+      "text": "Welcome to the Hunt, **The Scavenger Hunt**. Since this is your first trial, we will keep it simple. *All the clues are in this house*, so let's jump right in. Are you ready?",
       "responses": ["yes", "maybe", "no"],
       "inputType": "text"
     },
