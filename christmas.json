@@ -12,14 +12,14 @@
     {
       "hintIcon": "here",
       "hint": "you get no hint", 
-      "text": "The name on the oddest Christmas <span style="color:blue">ornament</span>",
+      "text": "The name on the oddest Christmas ",
       "responses": ["madison"],
       "inputType": "text"
     },
     {
       "hintIcon": "here",
       "hint": "you get no hint", 
-      "text": "The name on the oddest Christmas <span style="color:blue">ornament</span>",
+      "text": "The name on the oddest Christmas ",
       "responses": ["madison"],
       "inputType": "text"
     }
