@@ -1,11 +1,16 @@
 {
   "title": "A Christmas Hunt",
   "date": "12-25-2025",
+  "location": {
+    "country": "USA",
+    "state": "AZ",
+    "city": "Phoniex"
+  },
   "clues": [
     {
       "hintIcon": "here",
       "hint": "the code is yes",
-      "text": "Welcome to the Hunt, *The Scavenger Hunt*. Since this is your first trial, we will keep it simple. *All the clue are in the house*. Let's jump right in. `Are you ready?`",
+      "text": "Welcome to the Hunt, *The Scavenger Hunt*. Since this is your first trial, we will keep it simple. *All the clue are in the house*. Let's jump right in. Are you ready?",
       "responses": ["yes", "maybe", "no"],
       "inputType": "text"
     },
@@ -19,7 +24,7 @@
     {
       "hintIcon": "here",
       "hint": "you get no hint", 
-      "text": "The name on the oddest Christmas ",
+      "text": "The name on the oddest Christmas",
       "responses": ["madison"],
       "inputType": "text"
     }
