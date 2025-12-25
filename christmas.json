@@ -15,35 +15,35 @@
       "inputType": "text"
     },
     {
-      "hintIcon": "think",
+      "hintIcon": "here",
       "hint": "you get no hint", 
       "text": "The name on the oddest Christmas ornament.",
       "responses": ["madison"],
       "inputType": "text"
     },
     {
-      "hintIcon": "think",
+      "hintIcon": "here",
       "hint": "it's not a bookshelf", 
       "text": "Well well, you made it past your first challenge. Let's see if you can figure this one out. It's not an elf but it's on a shelf.",
       "responses": ["gnome"],
       "inputType": "scan"
     },
     {
-      "hintIcon": "think",
+      "hintIcon": "here",
       "hint": "it has something to do with a cube, or does it?", 
-      "text": "Do you know of a cleaner that can do a low, romantic ballroom dance?",
+      "text": "Do you know of a cleaner that can do a 'low, romantic ballroom dance?'",
       "responses": ["roomba"],
       "inputType": "scan"
     },
     {
-      "hintIcon": "think",
+      "hintIcon": "here",
       "hint": "the thing that tells you the date", 
       "text": "You're right. This is to easy, let's up the difficulty. The date is May 25th.",
       "responses": ["calendar"],
       "inputType": "scan"
     },
     {
-      "hintIcon": "walk",
+      "hintIcon": "here",
       "hint": "pick one", 
       "text": "Blitzen, Donner or Prancer.",
       "responses": ["deer"],
@@ -55,6 +55,14 @@
       "text": "How would one find an edible color?",
       "responses": ["orange tree"],
       "inputType": "scan"
+    },
+    {
+      "hintIcon": "think",
+      "hint": "ask mad e", 
+      "text": "It falls from the sky and smells like ________.",
+      "responses": ["creosote"],
+      "inputType": "text"
     }
+
   ]
 }
