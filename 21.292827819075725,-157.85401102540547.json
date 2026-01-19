@@ -9,8 +9,8 @@
       "responses": ["yes", "maybe"],
       "inputType": "text",
       "location": {
-        "latitude": 0,
-        "longitude": 0,
+        "latitude": 21.292827819075725,
+        "longitude": -157.85401102540547,
         "type": "start",
         "detail": "This is a test"
       }
@@ -22,8 +22,8 @@
       "responses": ["yes", "all", "unknown"],
       "inputType": "scan",
       "location": {
-        "latitude": 1,
-        "longitude": 1,
+        "latitude": 21.292086418692968,
+        "longitude": -157.85269560149385,
         "type": "point",
         "detail": "This is a test 2"
       }
