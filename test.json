@@ -5,6 +5,18 @@
     {
       "hintIcon": "internet",
       "hint": "",
+      "text": "Test",
+      "responses": ["yes", "maybe"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.297324007185054, -157.8516701757225],
+        "type": "start",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "internet",
+      "hint": "",
       "text": "Start",
       "responses": ["yes", "maybe"],
       "inputType": "text",
