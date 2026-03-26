@@ -1,0 +1,9 @@
+{
+    "hunts": [
+        {"coordinates": [21.297324007185054, -157.8516701757225], "description": "do a think at a place 1"},
+        {"coordinates": [21.297324007185054, -157.8516701757275], "description": "do a think at a place 2"},
+        {"coordinates": [21.297324007185054, -157.8516701757235], "description": "do a think at a place 3"},
+        {"coordinates": [21.297324007185054, -157.8516701757205], "description": "do a think at a place 4"},
+        {"coordinates": [21.297324007185054, -157.8516701757231], "description": "do a think at a place 5"}
+    ]
+}
