@@ -1,0 +1,101 @@
+{
+  "date": "12-12-2012",
+  "clues": [
+    {
+      "hintIcon": "internet",
+      "hint": "",
+      "text": "Test",
+      "responses": ["yes", "maybe"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.297324007185054, -157.8516701757225],
+        "type": "start",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "internet",
+      "hint": "",
+      "text": "Start",
+      "responses": ["yes", "maybe"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.292827819075725,-157.85401102540547],
+        "type": "start",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "walk", 
+      "text": "A",
+      "responses": ["yes", "all", "unknown"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.292086418692968, -157.85269560149385],
+        "type": "point",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "walk", 
+      "text": "B",
+      "responses": ["yes", "all", "unknown"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.29152102461848, -157.85098404385218],
+        "type": "point",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "walk", 
+      "text": "C",
+      "responses": ["yes", "all", "unknown"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.290517521907365, -157.8478634242143],
+        "type": "point",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "walk", 
+      "text": "D",
+      "responses": ["yes", "all", "unknown"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.289825205281097, -157.84599606481657],
+        "type": "point",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "walk", 
+      "text": "E",
+      "responses": ["yes", "all", "unknown"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.28930759924788, -157.84367918850944],
+        "type": "point",
+        "detail": "detail"
+      }
+    },
+    {
+      "hintIcon": "walk",
+      "hint": "walk", 
+      "text": "F",
+      "responses": ["yes", "all", "unknown"],
+      "inputType": "text",
+      "location": {
+        "coordinates": [21.28839237546532, -157.8418999829745],
+        "type": "point",
+        "detail": "detail"
+      }
+    }
+  ]
+}
