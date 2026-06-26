@@ -1,9 +1,5 @@
 {
     "hunts": [
-        {"coord": [21.28854357647475,-157.84675415351708], "title": "Ala Moana Beach", "type": "Fire", "description": "do a think at a place 1"},
-        {"coord": [21.283919670965883,-157.84553193462335], "title": "Magic Island", "type": "Fire", "description": "do a think at a place 2"},
-        {"coord": [21.281660595960922,-157.83896949249603], "title": "Kahanamoku Beach", "type": "Fire", "description": "do a think at a place 2"},
-        {"coord": [21.276315639679893,-157.82740287339422], "title": "Waikiki Beach", "type": "Fire", "description": "do a think at a place 2"},
         {"coord": [21.29856567892031,-157.86175817704316], "title": "Kapwa Grand Opening", "type": "beta test", "description": "Welcome to <ins>**Kapwa Grand Opening**</ins>. You have been invited to the *hunt*, the Scavenge Hunt!! Can you be one of the few to claim an unknown prize  or take a joyous adventure to somewhere? :bulb: *Tip:* Look for the :mag: :memo: *Note:* *we are :test_tube: so look out for the :bug:*"}
     ]
 }
