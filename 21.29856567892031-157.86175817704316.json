@@ -1,53 +1,45 @@
 {
     "date": "06-27-2026",
-    "clues": [ 
+    "clues": [
         {
-            "hintIcon": ["none"],
-            "hint": ["scan it"],
-            "text": ["when did Kapwa first open"],
-            "responses": ["12/12/1212"],
+            "location": [21.298400426055267,-157.8616499506722],
             "inputType": ["scan"],
-            "location": [[21.29282660284796,-157.8539998028379]]
+            "responses": ["television"],
+            "text": ["Look behind the portal that turns electricity into light, actors into giants, and living rooms into theaters."],
+            "hint": ["place"],
+            "hintIcon": ["xyz"]
         },
         {
+            "location": [21.298400426055267,-157.8616499506722],
             "inputType": ["text"],
-            "hintIcon": ["none"],
-            "hint": ["bartender"],
-            "text": ["You have selected the path of exploration. Can you walk the path to the next clue."],
-            "responses": ["b"],
-            "location": [[21.298540876476423,-157.86167194652384]]
+            "responses": ["Meow"],
+            "text": ["Find the person whose job is literally to stab people with ink for a living. Tell them the secret password “Meow”, and try not to laugh!"],
+            "hint": ["person"],
+            "hintIcon": ["xyz"]
         },
         {
-            "responses": ["a"],
+            "location": [21.298400426055267,-157.8616499506722],
             "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["sponsor"],
-            "text": ["ask the sponsor something"],
-            "location": [[21.29844949215702,-157.86165599801438]]
+            "responses": ["kitty"],
+            "text": ["Find the ultimate three-way staring contest hanging on the wall. It features _____, man and skull."],
+            "hint": ["place"],
+            "hintIcon": ["xyz"]
         },
         {
-            "responses": ["a"],
+            "location": [21.298400426055267,-157.8616499506722],
             "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["path 1"],
-            "text": ["go to the art gallery and find something"],
-            "location": [[21.298389312208325,-157.86161612674084]]
+            "responses": ["money"],
+            "text": ["999.99"],
+            "hint": ["place"],
+            "hintIcon": ["xyz"]
         },
         {
-            "responses": ["a"],
-            "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["merch"],
-            "text": ["the expensive sruff"],
-            "location": [[21.298389312208325,-157.86161612674084]]
-        },
-        {
-            "responses": ["a"],
+            "location": [21.298400426055267,-157.8616499506722],
             "inputType": ["text"],
-            "hintIcon": ["internet"],
-            "hint": ["boss"],
-            "text": ["find the boss"],
-            "location": [[21.298389312208325,-157.86161612674084]]
+            "responses": ["What"],
+            "text": ["Find the Founder. Does he have your prize? I don't know! But you can ask him."],
+            "hint": ["person"],
+            "hintIcon": ["xyz"]
         }
     ]
 }
