@@ -12,7 +12,7 @@
         {
             "location": [[21.298400426055267,-157.8616499506722]],
             "inputType": ["text"],
-            "responses": ["Meow"],
+            "responses": ["meow"],
             "text": ["Find the person whose job is literally to stab people with ink for a living. Tell them the secret password “Meow”, and try not to laugh!"],
             "hint": ["person"],
             "hintIcon": ["xyz"]
@@ -36,7 +36,7 @@
         {
             "location": [[21.298400426055267,-157.8616499506722]],
             "inputType": ["text"],
-            "responses": ["What"],
+            "responses": ["what"],
             "text": ["Find the Founder. Does he have your prize? I don't know! But you can ask him."],
             "hint": ["person"],
             "hintIcon": ["xyz"]
