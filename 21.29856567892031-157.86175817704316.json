@@ -2,11 +2,11 @@
     "date": "06-27-2026",
     "clues": [ 
         {
-            "hintIcon": ["none"],
+            "hintIcon": [["none"]],
             "hint": [["scan it"]],
             "text": [["when did Kapwa first open"]],
             "responses": [["12/12/1212"]],
-            "inputType": [["scan"]]
+            "inputType": [["scan"]],
             "location": [[21.29282660284796,-157.8539998028379]]
         },
         {
