@@ -3,50 +3,50 @@
     "clues": [ 
         {
             "hintIcon": ["none"],
-            "hint": ["scan it"],
-            "text": ["when did Kapwa first open"],
-            "responses": ["12/12/1212"],
-            "inputType": ["scan"],
+            "hint": [["scan it"]],
+            "text": [["when did Kapwa first open"]],
+            "responses": [["12/12/1212"]],
+            "inputType": [["scan"]]
             "location": [[21.29282660284796,-157.8539998028379]]
         },
         {
-            "inputType": ["text"],
-            "hintIcon": ["none"],
-            "hint": ["bartender"],
-            "text": ["You have selected the path of exploration. Can you walk the path to the next clue."],
-            "responses": ["b"],
+            "inputType": [["text"]],
+            "hintIcon": [["none"]],
+            "hint": [["bartender"]],
+            "text": [["You have selected the path of exploration. Can you walk the path to the next clue."]],
+            "responses": [["b"]],
             "location": [[21.298540876476423,-157.86167194652384]]
         },
         {
-            "responses": ["a"],
-            "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["sponsor"],
-            "text": ["ask the sponsor something"],
+            "responses": [["a"]],
+            "inputType": [["scan"]],
+            "hintIcon": [["internet"]],
+            "hint": [["sponsor"]],
+            "text": [["ask the sponsor something"]],
             "location": [[21.29844949215702,-157.86165599801438]]
         },
         {
-            "responses": ["a"],
-            "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["path 1"],
-            "text": ["go to the art gallery and find something"],
+            "responses": [["a"]],
+            "inputType": [["scan"]],
+            "hintIcon": [["internet"]],
+            "hint": [["path 1"]],
+            "text": [["go to the art gallery and find something"]],
             "location": [[21.298389312208325,-157.86161612674084]]
         },
         {
-            "responses": ["a"],
-            "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["merch"],
-            "text": ["the expensive sruff"],
+            "responses": [["a"]],
+            "inputType": [["scan"]],
+            "hintIcon": [["internet"]],
+            "hint": [["merch"]],
+            "text": [["the expensive sruff"]],
             "location": [[21.298389312208325,-157.86161612674084]]
         },
         {
-            "responses": ["a"],
-            "inputType": ["text"],
-            "hintIcon": ["internet"],
-            "hint": ["boss"],
-            "text": ["find the boss"],
+            "responses": [["a"]],
+            "inputType": [["text"]],
+            "hintIcon": [["internet"]],
+            "hint": [["boss"]],
+            "text": [["find the boss"]],
             "location": [[21.298389312208325,-157.86161612674084]]
         }
     ]
