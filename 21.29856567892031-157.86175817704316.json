@@ -2,7 +2,7 @@
     "date": "06-27-2026",
     "clues": [
         {
-            "location": [[21.298400426055267,-157.8616499506722]],
+            "location": [[21.29836207156954, -157.86150238003228]],
             "inputType": ["scan"],
             "responses": ["television"],
             "text": ["Look behind the portal that turns electricity into light, actors into giants, and living rooms into theaters."],
@@ -10,7 +10,7 @@
             "hintIcon": ["xyz"]
         },
         {
-            "location": [[21.298400426055267,-157.8616499506722]],
+            "location": [[21.298451227056827, -157.86164033463882]],
             "inputType": ["text"],
             "responses": ["meow"],
             "text": ["Find the person whose job is literally to stab people with ink for a living. Tell them the secret password “Meow”, and try not to laugh!"],
@@ -18,7 +18,7 @@
             "hintIcon": ["xyz"]
         },
         {
-            "location": [[21.298400426055267,-157.8616499506722]],
+            "location": [[21.29847697135877, -157.8615724622502]],
             "inputType": ["scan"],
             "responses": ["kitty"],
             "text": ["Find the ultimate three-way staring contest hanging on the wall. It features _____, man and skull."],
@@ -26,7 +26,7 @@
             "hintIcon": ["xyz"]
         },
         {
-            "location": [[21.298400426055267,-157.8616499506722]],
+            "location": [[21.298381383948108, -157.8615228413859]],
             "inputType": ["scan"],
             "responses": ["money"],
             "text": ["999.99"],
@@ -34,7 +34,7 @@
             "hintIcon": ["xyz"]
         },
         {
-            "location": [[21.298400426055267,-157.8616499506722]],
+            "location": [[21.2984444841412, -157.86162811808447]],
             "inputType": ["text"],
             "responses": ["what"],
             "text": ["Find the Founder. Does he have your prize? I don't know! But you can ask him."],
