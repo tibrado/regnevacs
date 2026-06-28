@@ -29,7 +29,7 @@
             "location": [[21.298381383948108, -157.8615228413859]],
             "inputType": ["scan"],
             "responses": ["money"],
-            "text": ["999.99"],
+            "text": ["The best selfie spot."],
             "hint": ["place"],
             "hintIcon": ["xyz"]
         },
