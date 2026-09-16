@@ -1,53 +1,37 @@
 {
-    "date": "06-27-2026",
+    "date": "09-16-2026",
     "clues": [ 
         {
             "hintIcon": ["none"],
             "hint": ["scan it"],
-            "text": ["when did Kapwa first open"],
-            "responses": ["12/12/1212"],
+            "text": ["I have roads and build with no rocks or sand. What am I?"],
+            "responses": ["a"],
             "inputType": ["scan"],
-            "location": [[21.29282660284796,-157.8539998028379]]
+            "location": [[32.77313307904031,-117.15127213143383]]
         },
         {
-            "inputType": ["text"],
             "hintIcon": ["none"],
-            "hint": ["bartender"],
-            "text": ["You have selected the path of exploration. Can you walk the path to the next clue."],
-            "responses": ["b"],
-            "location": [[21.298540876476423,-157.86167194652384]]
-        },
-        {
-            "responses": ["a"],
-            "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["sponsor"],
-            "text": ["ask the sponsor something"],
-            "location": [[21.29844949215702,-157.86165599801438]]
-        },
-        {
-            "responses": ["a"],
-            "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["path 1"],
-            "text": ["go to the art gallery and find something"],
-            "location": [[21.298389312208325,-157.86161612674084]]
-        },
-        {
-            "responses": ["a"],
-            "inputType": ["scan"],
-            "hintIcon": ["internet"],
-            "hint": ["merch"],
-            "text": ["the expensive sruff"],
-            "location": [[21.298389312208325,-157.86161612674084]]
-        },
-        {
-            "responses": ["a"],
+            "hint": [""],
+            "text": ["Complete the pattern: 1, 2, 3, 18, 19, 20, 21, 22, 23"],
+            "responses": ["4"],
             "inputType": ["text"],
-            "hintIcon": ["internet"],
-            "hint": ["boss"],
-            "text": ["find the boss"],
-            "location": [[21.298389312208325,-157.86161612674084]]
+            "location": [[32.77325655424267, -117.15115143202827]]
+        },
+        {
+            "hintIcon": ["none"],
+            "hint": ["scan it"],
+            "text": ["The thing that will rescue you from the deep blue."],
+            "responses": ["b"],
+            "inputType": ["scan"],
+            "location": [[32.77312462183087, -117.15097842955046]]
+        },
+        {
+            "hintIcon": ["none"],
+            "hint": [""],
+            "text": ["the pretties landry room on the block"],
+            "responses": ["c"],
+            "inputType": ["scan"],
+            "location": [[32.77373710917851, -117.14989369769289]]
         }
     ]
 }
