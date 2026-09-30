@@ -10,13 +10,7 @@
             "coord": [32.773172151781765,-117.15122303908053],
             "title": "Park Villa North",
             "type": "beta test",
-            "description": "Welcome to the <ins>**Scavenger Hunt**</ins> of Park Villa North. *Dear honored guest, you have been invited to partake of this hunt. Are you one we've been searching for? Do you have what it takes? Accept this challenge complete this challenge and we shall find out.*"
-        },
-        {
-            "coord":[32.77393450060204,-117.15096298638228],
-            "description":"New game who this ",
-            "title":"Testing",
-            "type":"Water"
+            "description": "Welcome to the <ins>**Scavenger Hunt**</ins> of Park Villa North. *You have been invited to participate in this challenge. Do you have what it takes? Complete the hunt and we shall find out.*"
         }
     ]
 }
