@@ -3,15 +3,15 @@
     "clues": [ 
         {
             "hintIcon": ["none"],
-            "hint": ["google"],
-            "text": ["I have roads and build with no rocks or sand. What am I?"],
+            "hint": ["navigation"],
+            "text": ["I am a flat guide with roads you can't drive, rivers you can't swim, and cities you can't visit."],
             "responses": ["map"],
             "inputType": ["text"],
             "location": [[32.77313307904031,-117.15127213143383]]
         },
         {
             "hintIcon": ["none"],
-            "hint": ["mail"],
+            "hint": ["mailroom"],
             "text": ["Complete the pattern: 1, 2, 3, 18, 19, 20, 21, 22, 23"],
             "responses": ["4"],
             "inputType": ["text"],
@@ -28,7 +28,7 @@
         {
             "hintIcon": ["none"],
             "hint": ["app"],
-            "text": ["what controls the wash, cycle and dry?"],
+            "text": ["What controls the wash and dry cycles?"],
             "responses": ["wash-connect", "washconnect", "wash connect"],
             "inputType": ["text"],
             "location": [[32.77373710917851, -117.14989369769289]]
