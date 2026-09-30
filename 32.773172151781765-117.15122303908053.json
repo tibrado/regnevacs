@@ -5,8 +5,8 @@
             "hintIcon": ["none"],
             "hint": ["scan it"],
             "text": ["I have roads and build with no rocks or sand. What am I?"],
-            "responses": ["a"],
-            "inputType": ["scan"],
+            "responses": ["map"],
+            "inputType": ["text"],
             "location": [[32.77313307904031,-117.15127213143383]]
         },
         {
@@ -20,7 +20,7 @@
         {
             "hintIcon": ["none"],
             "hint": ["scan it"],
-            "text": ["The thing that will rescue you from the deep blue."],
+            "text": ["The thing that rescues you from the deep blue."],
             "responses": ["b"],
             "inputType": ["scan"],
             "location": [[32.77312462183087, -117.15097842955046]]
@@ -28,7 +28,7 @@
         {
             "hintIcon": ["none"],
             "hint": [""],
-            "text": ["the pretties landry room on the block"],
+            "text": ["the laundry room with all the flowers"],
             "responses": ["c"],
             "inputType": ["scan"],
             "location": [[32.77373710917851, -117.14989369769289]]
